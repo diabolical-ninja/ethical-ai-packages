@@ -1,6 +1,8 @@
 # Ethical AI Store
 Collection of links for Ethical AI, Fairness & Transperency libraries.
 
+Note this is mostly Python centric but welcome additions regardless of the language.
+
 
 **Deon**
 - **Summary**: An ethics checklist for data scientists
@@ -59,4 +61,15 @@ Collection of links for Ethical AI, Fairness & Transperency libraries.
 - **Summary**: The What-If Tool (WIT) provides an easy-to-use interface for expanding understanding of a black-box classification or regression ML model
 - **Repo**: https://github.com/pair-code/what-if-tool
 - **Docs**: https://pair-code.github.io/what-if-tool/
+
+
+**LIME**
+- **Summary**: This project is about explaining what machine learning classifiers (or models) are doing
+- **Repo**: https://github.com/marcotcr/lime
+- **Paper**: https://arxiv.org/abs/1602.04938
+
+
+**SHAP**
+- **Summary**: SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model
+- **Repo**: https://github.com/slundberg/shap
 
