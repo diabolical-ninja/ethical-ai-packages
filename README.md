@@ -21,6 +21,12 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Docs**: https://aif360.mybluemix.net/
 
 
+**AI Explainability 360**
+- **Summary**: The AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models
+- **Repo**: https://github.com/Trusted-AI/AIX360
+- **Docs**: http://aix360.mybluemix.net/
+
+
 **Interpret**
 - **Summary**: InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof.
 - **Repo**: https://github.com/interpretml/interpret
@@ -90,3 +96,16 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters.
 - **Repo**: https://github.com/sepandhaghighi/pycm
 - **Docs**: https://www.pycm.ir/
+
+
+**ELI5**
+- **Summary**: A library for debugging/inspecting machine learning classifiers and explaining their predictions
+- **Repo**: https://github.com/TeamHG-Memex/eli5
+- **Docs**: http://eli5.readthedocs.io/
+
+
+**Skater**
+- **Summary**: Skater is a open source unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases.
+- **Repo**: https://github.com/oracle/Skater
+- **Docs**: https://oracle.github.io/Skater/index.html
+
