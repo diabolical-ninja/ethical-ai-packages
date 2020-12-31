@@ -6,8 +6,8 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 
 **Deon**
 - **Summary**: An ethics checklist for data scientists
-- ****Repo**: https://github.com/drivendataorg/deon
-- ****Docs**: https://deon.drivendata.org/
+- **Repo**: https://github.com/drivendataorg/deon
+- **Docs**: https://deon.drivendata.org/
 
 **Alibi**
 - **Summary**: Alibi is an open source Python library aimed at machine learning model inspection and interpretation
