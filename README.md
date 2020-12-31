@@ -1,4 +1,4 @@
-# # Ethical AI Software
+# Ethical AI Store
 Collection of links for Ethical AI, Fairness & Transperency libraries.
 
 Note this is mostly Python centric but welcome additions regardless of the language.
@@ -6,8 +6,8 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 
 **Deon**
 - **Summary**: An ethics checklist for data scientists
-- **Repo**: https://github.com/drivendataorg/deon
-- **Docs**: https://deon.drivendata.org/
+- ****Repo**: https://github.com/drivendataorg/deon
+- ****Docs**: https://deon.drivendata.org/
 
 **Alibi**
 - **Summary**: Alibi is an open source Python library aimed at machine learning model inspection and interpretation
@@ -19,12 +19,6 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: The AI Fairness 360 toolkit is an extensible open-source library containg techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle.
 - **Repo**: https://github.com/Trusted-AI/AIF360
 - **Docs**: https://aif360.mybluemix.net/
-
-
-**AI Explainability 360**
-- **Summary**: The AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models
-- **Repo**: https://github.com/Trusted-AI/AIX360
-- **Docs**: http://aix360.mybluemix.net/
 
 
 **Interpret**
@@ -80,32 +74,31 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Repo**: https://github.com/slundberg/shap
 
 
-**Yellowbrick**
-- **Summary**: Yellowbrick extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib.
-- **Repo**: https://github.com/DistrictDataLabs/yellowbrick
-- **Docs**: https://www.scikit-yb.org/en/latest/
-
-
-**Tensorflow Fairness Indicators**
-- **Summary**: Fairness Indicators is designed to support teams in evaluating, improving, and comparing models for fairness concerns in partnership with the broader Tensorflow toolkit.
-- **Repo**: https://github.com/tensorflow/fairness-indicators
-- **Docs**: https://www.tensorflow.org/responsible_ai
-
-
-**PyCM**
-- **Summary**: PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters.
-- **Repo**: https://github.com/sepandhaghighi/pycm
-- **Docs**: https://www.pycm.ir/
-
-
-**ELI5**
-- **Summary**: A library for debugging/inspecting machine learning classifiers and explaining their predictions
-- **Repo**: https://github.com/TeamHG-Memex/eli5
-- **Docs**: http://eli5.readthedocs.io/
-
-
 **Skater**
-- **Summary**: Skater is a open source unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases.
+- **Summary**: Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases
 - **Repo**: https://github.com/oracle/Skater
 - **Docs**: https://oracle.github.io/Skater/index.html
 
+
+**Black Box Auditing**
+- **Summary**: This repository contains a sample implementation of Gradient Feature Auditing (GFA) meant to be generalizable to most datasets.
+- **Repo**: https://github.com/algofairness/BlackBoxAuditing
+- **Paper**: https://arxiv.org/abs/1412.3756
+
+
+**Fairness Comparison**
+- **Summary**: A comparative study of fairness-enhancing interventions in machine learning. This repository is meant to facilitate the benchmarking of fairness aware machine learning algorithms.
+- **Repo**: https://github.com/algofairness/fairness-comparison
+- **Paper**: https://arxiv.org/abs/1802.04422
+
+
+**FairTest**
+- **Summary**: FairTest enables developers or auditing entities to discover and test for unwarranted associations between an algorithm's outputs and certain user subpopulations identified by protected features.
+- **Repo**: https://github.com/columbia/fairtest
+- **Docs**: *N/A*
+
+
+**FairML**
+- **Summary**: FairML is a python toolbox auditing the machine learning models for bias.
+- **Repo**: https://github.com/adebayoj/fairml
+- **Docs**: *N/A*
