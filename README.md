@@ -139,3 +139,9 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Repo**: https://github.com/google/ml-fairness-gym/
 - **Docs**: https://github.com/google/ml-fairness-gym/tree/master/docs
 - **Paper**: https://dl.acm.org/doi/pdf/10.1145/3351095.3372878
+
+
+**TensorFlow Constrained Optimization (TFCO)**
+- **Summary**: TFCO is a library for optimizing inequality-constrained problems in TensorFlow 1.14 and later (including TensorFlow 2).
+- **Repo**: https://github.com/google-research/tensorflow_constrained_optimization
+- **Paper**: http://proceedings.mlr.press/v98/cotter19a/cotter19a.pdf
