@@ -1,4 +1,4 @@
-# Ethical AI Store
+# Ethical AI Packages
 Collection of links for Ethical AI, Fairness & Transperency libraries.
 
 Note this is mostly Python centric but welcome additions regardless of the language.
