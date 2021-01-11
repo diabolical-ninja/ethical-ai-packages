@@ -132,3 +132,10 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: FairML is a python toolbox auditing the machine learning models for bias.
 - **Repo**: https://github.com/adebayoj/fairml
 - **Docs**: *N/A*
+
+
+**ml-fairness-gym**
+- **Summary**: ML-fairness-gym is a set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.
+- **Repo**: https://github.com/google/ml-fairness-gym/
+- **Docs**: https://github.com/google/ml-fairness-gym/tree/master/docs
+- **Paper**: https://dl.acm.org/doi/pdf/10.1145/3351095.3372878
