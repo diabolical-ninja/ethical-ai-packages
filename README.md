@@ -145,3 +145,15 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: TFCO is a library for optimizing inequality-constrained problems in TensorFlow 1.14 and later (including TensorFlow 2).
 - **Repo**: https://github.com/google-research/tensorflow_constrained_optimization
 - **Paper**: http://proceedings.mlr.press/v98/cotter19a/cotter19a.pdf
+
+
+**Dalex**
+- **Summary**: The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.
+- **Repo**: https://github.com/ModelOriented/DALEX
+- **Docs**: https://dalex.drwhy.ai/
+
+
+**Aequitas**
+- **Summary**: Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.
+- **Repo**: https://github.com/dssg/aequitas
+- **Docs**: http://www.datasciencepublicpolicy.org/projects/aequitas/
