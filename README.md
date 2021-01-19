@@ -157,3 +157,8 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.
 - **Repo**: https://github.com/dssg/aequitas
 - **Docs**: http://www.datasciencepublicpolicy.org/projects/aequitas/
+
+**Ethik**
+- **Summary**: ethik is a Python package for performing fair and explainable machine learning. At it's core, the approach of ethik is to build counterfactual distributions that permit answering "what if?" scenarios.
+- **Repo**: https://github.com/XAI-ANITI/ethik
+- **Docs**: https://xai-aniti.github.io/ethik/
