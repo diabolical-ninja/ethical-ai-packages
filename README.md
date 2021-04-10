@@ -7,10 +7,6 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 
 <details>
   <summary>Python Packages</summary>
-  
-
-
-
 
 
 **Deon**
@@ -143,6 +139,36 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Docs**: *N/A*
 
 
+**ml-fairness-gym**
+- **Summary**: ML-fairness-gym is a set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.
+- **Repo**: https://github.com/google/ml-fairness-gym/
+- **Docs**: https://github.com/google/ml-fairness-gym/tree/master/docs
+- **Paper**: https://dl.acm.org/doi/pdf/10.1145/3351095.3372878
+
+
+**TensorFlow Constrained Optimization (TFCO)**
+- **Summary**: TFCO is a library for optimizing inequality-constrained problems in TensorFlow 1.14 and later (including TensorFlow 2).
+- **Repo**: https://github.com/google-research/tensorflow_constrained_optimization
+- **Paper**: http://proceedings.mlr.press/v98/cotter19a/cotter19a.pdf
+
+
+**Dalex**
+- **Summary**: The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.
+- **Repo**: https://github.com/ModelOriented/DALEX
+- **Docs**: https://dalex.drwhy.ai/
+
+
+**Aequitas**
+- **Summary**: Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.
+- **Repo**: https://github.com/dssg/aequitas
+- **Docs**: http://www.datasciencepublicpolicy.org/projects/aequitas/
+
+**Ethik**
+- **Summary**: ethik is a Python package for performing fair and explainable machine learning. At it's core, the approach of ethik is to build counterfactual distributions that permit answering "what if?" scenarios.
+- **Repo**: https://github.com/XAI-ANITI/ethik
+- **Docs**: https://xai-aniti.github.io/ethik/
+
+
 **Shapash**
 - **Summary**: Shapash is a Python library which aims to make machine learning interpretable and understandable to everyone.
 - **Repo**: https://github.com/MAIF/shapash
@@ -176,3 +202,31 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 
 
 </details>
+**ml-fairness-gym**
+- **Summary**: ML-fairness-gym is a set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.
+- **Repo**: https://github.com/google/ml-fairness-gym/
+- **Docs**: https://github.com/google/ml-fairness-gym/tree/master/docs
+- **Paper**: https://dl.acm.org/doi/pdf/10.1145/3351095.3372878
+
+
+**TensorFlow Constrained Optimization (TFCO)**
+- **Summary**: TFCO is a library for optimizing inequality-constrained problems in TensorFlow 1.14 and later (including TensorFlow 2).
+- **Repo**: https://github.com/google-research/tensorflow_constrained_optimization
+- **Paper**: http://proceedings.mlr.press/v98/cotter19a/cotter19a.pdf
+
+
+**Dalex**
+- **Summary**: The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.
+- **Repo**: https://github.com/ModelOriented/DALEX
+- **Docs**: https://dalex.drwhy.ai/
+
+
+**Aequitas**
+- **Summary**: Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.
+- **Repo**: https://github.com/dssg/aequitas
+- **Docs**: http://www.datasciencepublicpolicy.org/projects/aequitas/
+
+**Ethik**
+- **Summary**: ethik is a Python package for performing fair and explainable machine learning. At it's core, the approach of ethik is to build counterfactual distributions that permit answering "what if?" scenarios.
+- **Repo**: https://github.com/XAI-ANITI/ethik
+- **Docs**: https://xai-aniti.github.io/ethik/
