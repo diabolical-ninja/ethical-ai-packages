@@ -1,7 +1,16 @@
 # Ethical AI Store
-Collection of links for Ethical AI, Fairness & Transperency libraries.
+Collection of links for Ethical AI, Fairness & Transperency libraries & training.
 
 Note this is mostly Python centric but welcome additions regardless of the language.
+
+## Python Packages
+
+<details>
+  <summary>Python Packages</summary>
+  
+
+
+
 
 
 **Deon**
@@ -132,3 +141,38 @@ Note this is mostly Python centric but welcome additions regardless of the langu
 - **Summary**: FairML is a python toolbox auditing the machine learning models for bias.
 - **Repo**: https://github.com/adebayoj/fairml
 - **Docs**: *N/A*
+
+
+**Shapash**
+- **Summary**: Shapash is a Python library which aims to make machine learning interpretable and understandable to everyone.
+- **Repo**: https://github.com/MAIF/shapash
+- **Docs**: https://shapash.readthedocs.io/en/latest/
+
+</details>
+
+
+## Study Material & Courses
+
+<details>
+  <summary>Study Material & Courses</summary>
+  
+
+**Fair ML Book**
+- **Summary**: This book gives a perspective on machine learning that treats fairness as a central concern rather than an afterthought. We’ll review the practice of machine learning in a way that highlights ethical challenges. We’ll then discuss approaches to mitigate these problems.
+- **Type**: E-Book
+- **URL**: https://fairmlbook.org/
+
+
+**Dealing with Bias and Fairness in Building Data Science/ML/AI Systems**
+- **Summary**: Tackling issues of bias and fairness when building and deploying machine learning and data science systems has received increased attention from the research community in recent years, yet most of the research has focused on theoretical aspects with a very limited set of application areas and data sets. 
+- **Type**: Tutorial
+- **URL**: https://dssg.github.io/fairness_tutorial/
+
+
+**Practical Data Ethics**
+- **Summary**: In this course, we will focus on topics that are both urgent and practical. In keeping with my teaching philosophy, we will begin with two active, real-world areas (disinformation and bias) to provide context and motivation, before stepping back in Lesson 3 to dig into foundations of data ethics and practical tools. From there we will move on to additional subject areas: privacy & surveillance, the role of the Silicon Valley ecosystem (including metrics, venture growth, & hypergrowth), and algorithmic colonialism.
+- **Type**: Course
+- **URL**: https://ethics.fast.ai/
+
+
+</details>
